@@ -1,7 +1,37 @@
 # Omnifood
 
-Site de uma empresa (fictícia) de entrega de alimentos, focada em alimentos saudáveis e acessíveis. Desenvolvido durante um curso de HTML e CSS.
+Delivery meal service. 
 
-<p>Linguagens utilizadas<p>
-<p>HTML5<p>
-<p>CSS3<p>
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+## Overview
+
+### Screenshot
+
+![omnifood](https://user-images.githubusercontent.com/68197761/138560929-64247c68-fc48-4c56-8d52-15bd8c89d469.jpg)
+
+### Links
+
+- Live Site URL: (https://bruna93.github.io/Omnifood/)
+
+## Process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- CSS Animations
+
+## Author
+
+- LinkedIn - [Bruna Carvalho](https://www.linkedin.com/in/bruna-carvalho-5334a11b8/)
